@@ -59,7 +59,7 @@ RCC 설정을 위해 다음 그림과 같이 System Core 하위 메뉴중 RCC를
 
 - **GPIO 확인**
 
-GPIO항목에서 PC13번을 pull_up으로 변경한다.
+GPIO항목에서 PC13번을 GPIO Mode: input mode, GPIO pull-up/pull-down은 pull_up으로 변경한다.
 
 ![](./img/GPIO_PC13_Pull_up.png)
 
