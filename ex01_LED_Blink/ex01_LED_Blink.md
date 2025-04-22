@@ -162,7 +162,11 @@ Project 메뉴의 Build Project를 선택하여 빌드한다.
 
 ![](./img/led_blink_photo01.jpg)
 
-https://github.com/sominlee74/stm32-f103rb/tree/main/ex01_LED_Blink/img/run_led_blink.mp4
+
+
+https://github.com/user-attachments/assets/4a0a8335-bd84-4819-9d7a-49460f6f13c4
+
+
 
 ![](./img/led_LD2.png)
 
