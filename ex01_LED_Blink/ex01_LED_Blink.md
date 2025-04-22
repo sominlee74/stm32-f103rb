@@ -23,16 +23,16 @@ GPIO 출력 기능을 이용한 보드 내장 LED 제어
 
 #### 1-1. Target Board 선택
 
-Tafget Selection 윈도우가 나타나면 **Board Selector** 탭을 클릭
+Target Selection 윈도우가 나타나면 **Board Selector** 탭을 클릭
 
-![](./img/board_Selector1.png)
+![](./img/board_selector1.png)
 
 
 Board selector 탭의 Type에서 NUCLEO64를 체크,
-![](./img/board_Selector2.png)
+![](./img/board_selector2.png)
 
  MCU/MPU Series에서 STM32F1을 체크 하면 Board List에 **NUCLEO-F103RB**가 표시된다.  이를 선택 후, 하단의 Next > 버튼을 클릭한다.
- ![](./img/board_Selector3.png)
+ ![](./img/board_selector3.png)
 
 
 ![](./img/board_type.png)
@@ -47,8 +47,6 @@ Board Project Options 대화창에서 Yes 버튼을 클릭한다.
 
 
 ![](./img/board_project_options.png)
-
-Open Associated Perspective 대화창에서 Yes 버튼을 클릭하면 Device Configration Tool 창이 열린다.
 
 ### 2. 장치 설정
 #### 2-1. Device Configuration Tool
